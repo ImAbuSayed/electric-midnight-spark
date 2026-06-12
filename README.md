@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/electric-midnight-spark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Electric Midnight Spark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-midnight-spark/) |
+| **Get License** | [Get a Licensing Quote for Electric Midnight Spark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-midnight-spark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2ebdfefb340720d65723892e9ecd378013cc36983db2347ef845b0ffae066ead` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
