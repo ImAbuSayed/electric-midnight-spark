@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/electric-midnight-spark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Electric Midnight Spark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-midnight-spark/) |
+| **Get License** | [Get License For Electric Midnight Spark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/electric-midnight-spark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight shadows dancing on your skin
+> I can feel the fire about to begin
+> A single look and I am pulling close
+> You are the only truth I want to know
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
